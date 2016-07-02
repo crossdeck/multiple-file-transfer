@@ -1,0 +1,12 @@
+c:\users\aakash\documents\visual studio 2013\Projects\FileTransfer\FileTransfer\bin\Debug\FileTransfer.exe.config
+C:\Users\Aakash\documents\visual studio 2013\Projects\FileTransfer\FileTransfer\bin\Debug\FileTransfer.exe
+C:\Users\Aakash\documents\visual studio 2013\Projects\FileTransfer\FileTransfer\bin\Debug\FileTransfer.pdb
+C:\Users\Aakash\documents\visual studio 2013\Projects\FileTransfer\FileTransfer\obj\Debug\FileTransfer.csprojResolveAssemblyReference.cache
+C:\Users\Aakash\documents\visual studio 2013\Projects\FileTransfer\FileTransfer\obj\Debug\Main.resources
+C:\Users\Aakash\documents\visual studio 2013\Projects\FileTransfer\FileTransfer\obj\Debug\FileTransfer.Properties.Resources.resources
+C:\Users\Aakash\documents\visual studio 2013\Projects\FileTransfer\FileTransfer\obj\Debug\FileTransfer.csproj.GenerateResource.Cache
+C:\Users\Aakash\documents\visual studio 2013\Projects\FileTransfer\FileTransfer\obj\Debug\FileTransfer.exe
+C:\Users\Aakash\documents\visual studio 2013\Projects\FileTransfer\FileTransfer\obj\Debug\FileTransfer.pdb
+G:\Projects\C#\FileTransfer\FileTransfer\bin\Debug\FileTransfer.exe.config
+G:\Projects\C#\FileTransfer\FileTransfer\obj\Debug\FileTransfer.exe
+G:\Projects\C#\FileTransfer\FileTransfer\obj\Debug\FileTransfer.pdb
